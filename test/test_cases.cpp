@@ -10,6 +10,7 @@
 // of common test cases
 //
 #include "game.hpp"
+#include <iostream>
 #include <unity.h>
 
 //
