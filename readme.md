@@ -1,4 +1,4 @@
-# C++ Program
+# Tic Tac Dodo for Command-line 🦤✏️
 
 ## About
 
@@ -40,7 +40,7 @@ meson install -C builddir
 And finally we run this cool application:
 
 ```console
-prog
+tic-tac-dodo
 ```
 
 ## Contact the developer
