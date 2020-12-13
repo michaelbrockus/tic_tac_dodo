@@ -36,4 +36,9 @@ int getBoardState(std::array<std::array<char, 3>, 3> board, char marker);
 std::pair<int, int> findBestMove(std::array<std::array<char, 3>, 3> board);
 const bool gameIsDone(std::array<std::array<char, 3>, 3> board);
 
+//
+// Game helpers
+void printBoard(std::array<std::array<char, 3>, 3> board);
+void printGameState(int state);
+
 #endif // end of GAME_H
