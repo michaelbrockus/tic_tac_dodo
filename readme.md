@@ -17,7 +17,7 @@ with a really smart dodo bird.
 * * *
 
 Targeted audience we are building for is MacOSX and Linux users. This project uses
-[Meson](https://mesonbuild.com/) `0.56.0` and newer.
+[Meson](https://mesonbuild.com/) `0.57.1` and newer.
 
 ## Setup, Compile and Install
 
@@ -49,12 +49,11 @@ And finally we run this cool application:
 tic-tac-dodo
 ```
 
-## Contact the developer
+## Join the community
 
 * * *
 
-You can contact me with either of these methods.
+You can join the **Dragon App** developer community on [Reddit](https://www.reddit.com/r/dragon_apps/) and follow
+up on any importunt updates and news.
 
--   linkedin: [michael-brockus](https://www.linkedin.com/in/michael-brockus-1009a1174/)
--   reddit: [MichaelBrockus](https://www.reddit.com/user/MichaelBrockus)
--   gmail: [michaelbrockus@gmail.com](mailto:michaelbrockus@gmail.com).
+Lastly don't forget to have a cup of virtual coffee. Thanks.
